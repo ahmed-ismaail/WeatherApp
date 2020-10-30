@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AndroidMe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Android_Video_Player_App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EarthQuakeReport-App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ExtractorApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LoginRegister" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NoteApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pets_App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RecyclerView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/YTSMoviesApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/andfun-kotlin-android-trivia-starter-code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mvpExmaple" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mvvmExample" vcs="Git" />
+  </component>
+</project>

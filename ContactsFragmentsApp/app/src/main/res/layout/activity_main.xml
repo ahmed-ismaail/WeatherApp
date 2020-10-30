@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_main"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:name="com.example.contactsfragmentsapp.ui.ContactsMasterListFragment"
+    tools:layout="@layout/fragment_master_list">
+</fragment>
